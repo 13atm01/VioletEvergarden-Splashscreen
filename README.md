@@ -3,7 +3,6 @@
 
 ## :art: Screenshot
 
-> :link: **Previews**  ![SS](/Other/Splash-Screen03.mp4)
 > :link: **SS 1**  ![SS](/Other/Splash-Screen.png)
 > :link: **SS 2**  ![SS](/Other/Splash-Screen01.png)
 > :link: **SS 3**  ![SS](/Other/Splash-Screen02.png)
