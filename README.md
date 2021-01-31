@@ -21,5 +21,5 @@ This is my Plasma Splash Screen with the theme of the anime Violet Evergarden. Y
 
 ## :wrench: Installation
 
-- You can install it directly from `System Settings > Splash Screen > Get New Splash Screen and Search Violet Evergarden`
+- You can install it directly from `System Settings > Startup and Shutdown > Splash Screen > Get New Splash Screens and Search Violet Evergarden`
 - Or downloading file from my [KDE Store](https://store.kde.org/p/1460153/), extract the file and move it to the directory `~/.local/share/plasma/look-and-feel`
