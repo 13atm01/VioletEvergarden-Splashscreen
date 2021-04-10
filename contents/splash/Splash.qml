@@ -3,34 +3,29 @@ import QtQuick.Particles 2.0
 import QtQuick.Window 2.2
 
 
-Rectangle {
+Image {
     id: root
-    
-    // Define some miscellanous variables
-    width: Screen.width
-    height: Screen.height
+    source: "images/Background.jpg"
+    fillMode: Image.PreserveAspectCropt
+
     property int stage
-    // Create background gradient
-    gradient: Gradient {
-        GradientStop { position: 0.0; color: "#202020" }
-        GradientStop { position: 1.0; color: "#330066" }
-    }
+
     //Get KDE splash screen stages
     onStageChanged: {
         if (stage==1) {
-            beltOuter.opacity=0.6
+            beltOuter.opacity=0.8
         }
         if (stage==2) {
         }
         if (stage==3) {
-            beltInner.opacity=0.6
+            beltInner.opacity=0.8
         }
         if (stage==4) {
         }
         if (stage==5) {
             beltInner.secondAnimation=1.0
-            text.opacity=0.8
-            beltInner2.opacity=0.6
+            text.opacity=1
+            beltInner2.opacity=0.8
         }
         if (stage==6) {
         }
@@ -80,12 +75,12 @@ Rectangle {
         width: 0
         opacity: 0
         gradient: Gradient {
-            GradientStop { position: 0.0000; color: "#FFFFFFFF" }
-            GradientStop { position: 0.1499; color: "#FFFFFFFF" }
+            GradientStop { position: 0.0000; color: "#8727d8" }
+            GradientStop { position: 0.1499; color: "#8727d8" }
             GradientStop { position: 0.1500; color: "#00FFFFFF" }
             GradientStop { position: 0.8499; color: "#00FFFFFF" }
-            GradientStop { position: 0.8500; color: "#FFFFFFFF" }
-            GradientStop { position: 1.0000; color: "#FFFFFFFF" }
+            GradientStop { position: 0.8500; color: "#8727d8" }
+            GradientStop { position: 1.0000; color: "#8727d8" }
         }
         Behavior on opacity {
             NumberAnimation { target: beltOuter; property: "width"; to: root.width; duration: 2000 }
