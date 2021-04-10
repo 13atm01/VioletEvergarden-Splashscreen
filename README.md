@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="Other/Splash.png" width="75%"/>
+  <a href="https://ibb.co/8987NPG" title="Plasma Splash Screens"><img src="https://i.ibb.co/sq3Vbsc/Splash.png" width="75%"></a>
 </p>
 
 ## :art: Screenshot <img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/VioletEvergarden-Splashscreen?style=flat-square&label=&color=8727D8&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/> 
 
-:link: ***SS 1***  ![SS](/Other/Splash-Screen.png)
-:link: ***SS 2***  ![SS](/Other/Splash-Screen01.png)
-:link: ***SS 3***  ![SS](/Other/Splash-Screen02.png)
+:link: ***Preview 1***  ![SS](/Other/Splash-Screen.png)
+:link: ***Preview 2***  ![SS](/Other/Splash-Screen01.png)
+:link: ***Preview 3***  ![SS](/Other/Splash-Screen02.png)
 
 ## :page_with_curl: License
 This is my Plasma Splash Screen with the theme of the anime Violet Evergarden. Yes, this is actually a modification of [jurassicplayer / Kevin Tan](https://gitlab.com/Weeb-Themes/plasma-splashscreen/SnowyNightMiku) Splash Screen and licensed under [GNU GPLv3](LICENSE)
